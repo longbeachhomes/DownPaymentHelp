@@ -1,0 +1,328 @@
+{
+  "settings": {
+    "name": "DownPaymentHelp",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 12,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "DOWN PAYMENT HELP",
+          "text": "Find Your Down Payment Assistance Program<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#slider-1\" data-toolbar=\"-mbrBtnMove\">SEE BELOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "6",
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SAY WHAT? <br>A DOWN PAYMENT?",
+                "showText": true,
+                "text": "For many, putting together a down payment to buy a house is the most difficult part in the home buying process. The National Association of Realtors and RealtyTrac say that the time needed for a first-time homebuyer to collect a 20% of the house purchase price would be approximately 12.5 years, based on the rate of savings of a typical person. And for many more, even saving for the 3.5% required in a government backed loan appears as a daunting task. <br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "THERE IS MONEY AVAILABLE",
+                "showText": true,
+                "text": "A recently released report says that 70% of first time home buyers (and current home owners) in California are not aware that the Federal and State government agencies offer millions of dollars in down payment assistance or closing cost assistance programs that go unused each year.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "NOT A FIRST TIMER?",
+                "showText": true,
+                "text": "There are more than 260 homebuyer assistance programs in California, and approximately 37% of them DO NOT require you to be a first time buyer.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-1",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "About Down Payment Assistance (DPA)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Where Can I Find Downpayment Assistance Programs? Homebuyer assistance is usually offered by government agencies at the federal, state, county, and city level. There are also some non-profit or government public agencies offering DP assistance.</p><p><br></p><p>Who do I contact if I want to see if I qualify for down payment/closing cost assistance from a federal, city, county, state, or a non-profit agency?</p><p><br></p><p>After you find if there is a program available, please call me to tell you what you have to do to qualify. You can call me direct at <br>(714) 610-6809 or contact me by clicking the link at the end of the page.</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Buyer Beware: Most lenders are not approved to offer a majority (or any) of the assistance programs you are likely eligible for.  Many lenders purposely withhold valuable information and not inform you about all your options (because they cannot offer them) or to prevent you from seeking assistance from a lender who is more experienced or can offer more or better assistance programs.</span><br></p><p><br></p><p>I have access to most of the homebuyer assistance programs in California.  If I cannot offer a certain program, I’ll refer you to a lender who can.</p>",
+          "text3": "<p>Is it difficult to Qualify for Down Payment Assistance?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Each program and sponsoring agency has its own qualification criteria, but the most important of them are your income (you have to earn less than certain limit) and your credit score which for some of the programs is a minimum of 620 and for others 640, other than that you are likely to qualify!</span></p><p><br></p><p>You can start your search for a DPA in a site below that connects homebuyers with down payment assistance opportunities. Use this program finder to explore your eligibility. You can also call your local housing agency for a list of programs and participating lenders in your area. Not all lenders participate in down payment assistance programs.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SEARCH FOR DPA PROGRAMS",
+          "subtitle": "Let me show you the multitude of Down-Payment Assistance and Gift Options available for eligible California Homebuyers.<br>With this tool, you will be able to do your search and be ready to your next home-buying step.<br>Just fill in the form to start looking for a Down Payment program for you.<br>",
+          "form": {
+            "action": "emperorcesare@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEARCH PROGRAMS</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cres-logo-copy-128x52.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>111 Pacifica Suite 160<br>Irvine CA 92618",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nMobile: 714.610.6809<br>\nOffice: 949.203.4301",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" target=\"_blank\">Contact Me</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://cesarmarin.irvine.carringtonrealestate.com/results/\" target=\"_blank\">Look For Homes</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://longbeachhomes.github.io/sellyourhomeforfree/\" target=\"_blank\">Sell Your Home For FREE</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2017 Cesar Marin BRE#01274794/NMLS#269348, All Rights Reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Equal Housing Opportunity Lender | NMLS Consumer Access | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Privacy Policy</a> | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Terms &amp; Conditions</a> | Powered by CMDesign</span><br>Not everyone is eligible for the programs, and some restrictions do apply. The information contained on this site is for informational purposes only and is not an advertisement for products. The views and opinions expressed herein are those of the respective author(s) and do not reflect the policy or position of Carrington Real Estate, its officers, parent, or affiliates.<br>"
+        }
+      ]
+    }
+  }
+}
