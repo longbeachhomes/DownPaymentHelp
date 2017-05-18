@@ -171,7 +171,7 @@
           },
           "text1": "<p>Where Can I Find Downpayment Assistance Programs? Homebuyer assistance is usually offered by government agencies at the federal, state, county, and city level. There are also some non-profit or government public agencies offering DP assistance.</p><p><br></p><p>Who do I contact if I want to see if I qualify for down payment/closing cost assistance from a federal, city, county, state, or a non-profit agency?</p><p><br></p><p>After you find if there is a program available, please call me to tell you what you have to do to qualify. You can call me direct at <br>(714) 610-6809 or contact me by clicking the link at the end of the page.</p><p><br></p>",
           "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Buyer Beware: Most lenders are not approved to offer a majority (or any) of the assistance programs you are likely eligible for.  Many lenders purposely withhold valuable information and not inform you about all your options (because they cannot offer them) or to prevent you from seeking assistance from a lender who is more experienced or can offer more or better assistance programs.</span><br></p><p><br></p><p>I have access to most of the homebuyer assistance programs in California.  If I cannot offer a certain program, I’ll refer you to a lender who can.</p>",
-          "text3": "<p>Is it difficult to Qualify for Down Payment Assistance?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Each program and sponsoring agency has its own qualification criteria, but the most important of them are your income (you have to earn less than certain limit) and your credit score which for some of the programs is a minimum of 620 and for others 640, other than that you are likely to qualify!</span></p><p><br></p><p>You can start your search for a DPA in a site below that connects homebuyers with down payment assistance opportunities. Use this program finder to explore your eligibility. You can also call your local housing agency for a list of programs and participating lenders in your area. Not all lenders participate in down payment assistance programs.</p>"
+          "text3": "<p>Is it difficult to Qualify for Down Payment Assistance?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Each program and sponsoring agency has its own qualification criteria, but the most important of them are your income (you have to earn less than certain limit) and your credit score which for some of the programs is a minimum of 620 and for others 640, other than that you are likely to qualify!</span></p><p><br></p><p>You can start your search for a DPA in a site that connects homebuyers with down payment assistance opportunities. Use this program finder to explore your eligibility. You can also call your local housing agency for a list of programs and participating lenders in your area. Not all lenders participate in down payment assistance programs.</p>"
         },
         {
           "_tags": [
@@ -203,7 +203,7 @@
             "showSubTitle": true
           },
           "title": "SEARCH FOR DPA PROGRAMS",
-          "subtitle": "Let me show you the multitude of Down-Payment Assistance and Gift Options available for eligible California Homebuyers.<br>With this tool, you will be able to do your search and be ready to your next home-buying step.<br>Just fill in the form to start looking for a Down Payment program for you.<br>",
+          "subtitle": "Let me show you the multitude of Down-Payment Assistance and Gift Options available for eligible California Homebuyers.<br>With this tool, you will be able to do your search and be ready to your next home-buying step.<br>Just fill in the form to receive a link to the site and start looking for a Down Payment program for you.<br>",
           "form": {
             "action": "emperorcesare@hotmail.com",
             "alerts": {
@@ -231,7 +231,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEARCH PROGRAMS</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET THE LINK</a>"
         },
         {
           "_inherit": "social-buttons1",
