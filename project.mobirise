@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.6",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99306703-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -57,23 +57,23 @@
           "_name": "header5",
           "_anchor": "header5-0",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "DOWN PAYMENT HELP",
           "text": "Down Payment Assistance Programs for Your Clients<br>",
@@ -86,8 +86,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": "7",
             "slides": [
               {
@@ -132,10 +135,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-1",
           "articleLayout": false
@@ -152,10 +152,10 @@
           "_name": "header3",
           "_anchor": "header3-2",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "About Down Payment Assistance (DPA)",
           "meta": "By John Smith posted July 20, 2016"
@@ -190,19 +190,19 @@
           },
           "_anchor": "form1-7",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7c706b",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "SEARCH FOR DPA PROGRAMS",
           "subtitle": "Let me show you the multitude of Down-Payment Assistance and Gift Options available for eligible California Homebuyers.<br>With this tool, you will be able to help your buyers with a DPA available to them.<br>Just fill in the form to receive a link to the site and start looking for a Down Payment program for your client.<br>",
@@ -251,13 +251,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a38f84",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#a38f84",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -281,23 +281,23 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hartford-financial-services-lettering-128x127.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-for-footer-final-128x172.jpg",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "http://www.prioritymortgagefunding.com/cesarmarin",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -305,8 +305,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>1551 N Tustin Ave Suite 430<br>Santa Ana CA 92705",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nMobile:<a href=\"tel:+1-714-610-6809\" target=\"_blank\"> 714.610.6809</a><br>\nFax: 714.844.9156",
+          "text1": "<strong>Address</strong><br>30012 Ivy Glenn Suite 180<br>Laguna Niguel CA 92677",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nMobile:<a href=\"tel:+1-714-610-6809\" target=\"_blank\"> 714.610.6809</a><br>E-Fax: 949.315.3074",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://longbeachhomes.github.io/LoansForYourBuyers/\" target=\"_blank\">Loans For Your Buyers</a><br>\n<a href=\"http://www.realestateandtaxhelp.com/?p=232\" target=\"_blank\">Call-Capture Listings</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/results/\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://youtu.be/mLeIky_v2Yc\" target=\"_blank\">Home Buyer Seminar Online</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
@@ -319,13 +319,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright © 2017 Cesar Marin Home Loans BRE#01274794/NMLS#269348, All Rights Reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Equal Housing Opportunity Lender | NMLS Consumer Access | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Privacy Policy</a> | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Terms &amp; Conditions</a> | Powered by CMDesign</span><br>Not everyone is eligible for the programs, and some restrictions do apply. The information contained on this site is for informational purposes only and is not an advertisement for products. The views and opinions expressed herein are those of the respective author(s) and do not reflect the policy or position of Hartford Financial, its officers, parent, or affiliates.<br>"
         }
